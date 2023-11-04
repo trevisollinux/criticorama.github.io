@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CRITICORAMA</title>
+    <link>https://criticorama.github.io/posts/</link>
+    <description>Recent content in Posts on CRITICORAMA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Nov 2023 13:06:47 -0300</lastBuildDate>
+    <atom:link href="https://criticorama.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world!</title>
+      <link>https://criticorama.github.io/posts/mypost/</link>
+      <pubDate>Sat, 04 Nov 2023 13:06:47 -0300</pubDate>
+      <guid>https://criticorama.github.io/posts/mypost/</guid>
+      <description>Este é meu primeiro post.</description>
+    </item>
+  </channel>
+</rss>
